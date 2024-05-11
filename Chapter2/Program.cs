@@ -1,4 +1,6 @@
-﻿namespace Chapter2;
+﻿using NUnit.Framework;
+
+namespace Chapter2;
 
 public static class Solutions
 {
